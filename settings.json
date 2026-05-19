@@ -8,7 +8,7 @@
   "server": {
     "ip": "MineSSCraft.aternos.me",
     "port": 43591,
-    "version": "",
+    "version": "1.26.2",
     "try-creative": false
   },
   "position": {
