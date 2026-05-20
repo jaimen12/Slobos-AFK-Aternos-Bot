@@ -7,7 +7,7 @@
   "server": {
     "ip": "MineSSCraft.aternos.me:43591",
     "port": 43591,
-    "version": "26.1.2"
+    "version": "1.21.11"
   },
   "utils": {
     "auto-auth": {
