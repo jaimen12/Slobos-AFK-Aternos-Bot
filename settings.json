@@ -5,7 +5,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MineSSCraft.aternos.me:43591",
+    "ip": "MineSSCraft.aternos.me",
     "port": 43591,
     "version": "1.21.11"
   },
